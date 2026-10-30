@@ -1,0 +1,6 @@
+{
+  "name": "CodeForge",
+  "description": "Cloud code builder & IDE with real-time syntax highlighting for 19+ languages, cloud deployment, Git version control, terminal simulator, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
